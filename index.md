@@ -31,7 +31,6 @@ I have a strong work ethic which was kindled when starting a business in 2018 th
 - Stellenbosch University: 2019 - present
 - Westville Boys' High School: 2014 - 2018
 
-
 ## Projects
 Some projects that have been completed in the past 7 weeks can be found by folling the links below.
 
