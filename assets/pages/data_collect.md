@@ -1,3 +1,5 @@
+[Take me home](../../index.md)
+
 # Data Collection
 
 ### Markdown
