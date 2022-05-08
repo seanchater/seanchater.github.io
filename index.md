@@ -1,3 +1,5 @@
+<!-- %![Image](media/headshot.jpg) -->
+<img src="media/heahshot.jpg" width="200" height="200"/>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/seanchater/seanchater.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -23,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](media/headshot.jpg)
+[Link](url) and ![headshot](media/headshot.jpg)
 ```
 ## Project management
 
@@ -35,7 +37,7 @@ To keep on track with this project our team proposed a Gantt chart at the beginn
 of the project which outlined the flow of processes we were expecting to follow, who was responsible for
 those processes and a rough timeline of when they were expected to be finished. This Gantt chart was
 continuously updated throughout the project so we were sure to keep delivering on a consistent schedule, one of our iterations can be seen below to give an understanding of how it looks while a project is in progress.
-![Image](media/gantt.png)
+![gantt](media/gantt.png)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
