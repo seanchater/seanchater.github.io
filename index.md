@@ -1,15 +1,30 @@
-<!-- %![Image](media/headshot.jpg) -->
 <img align="left" src="assets/media/headshot.jpg" height="113" width="178"/>
 
+align="left" with br to close
 some inlightening text about sean
 	hopefully this is better aligned
 <br clear="left"/>
 
+<img style="float: left" src="assets/media/headshot.jpg" height="113" width="178"/>
+
+style="float: left" with br to close
+some inlightening text about sean
+	hopefully this is better aligned
+<br clear="left"/>
+
+<img style="float: left" src="assets/media/headshot.jpg" height="113" width="178"/>
+
+style="float: left" with no br to close
+some inlightening text about sean
+	hopefully this is better aligned
+
 # Welcome to Sean Chater's portfolio
 
 ## About me
-You can use the [editor on GitHub](https://github.com/seanchater/seanchater.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
+words...
+
+## Projects
 Some projects that have been completed in the past 7 weeks can be found by folling the links below.
 
 - [Project management](assets/pages/project_man.md)
