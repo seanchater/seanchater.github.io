@@ -1,5 +1,8 @@
 <!-- %![Image](media/headshot.jpg) -->
-<img style="float: right" src="assets/media/headshot.jpg" height="113" width="178"/>
+<img align="left" src="assets/media/headshot.jpg" height="113" width="178"/>
+
+some inlightening text about sean
+<br clear="left"/>
 
 # Welcome to Sean Chater's portfolio
 
