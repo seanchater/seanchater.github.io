@@ -9,7 +9,6 @@ A visual comparison of the feature classes in the database can be seen in Figure
 
 | <b>Figure 1: Visual difference between original feature classes and the updated feature classes in the SUBG file geodatabase</b>|
 
----
 
 | ![diff](../media/diff.png) |
 
@@ -17,13 +16,11 @@ A visual comparison of the feature classes in the database can be seen in Figure
 |:--:|
 | <b>Figure 1: Visual difference between original feature classes and the updated feature classes in the SUBG file geodatabase</b>|
 
----
 
 | ![diff](../media/diff.png) |
 
 | <b>Figure 1: Visual difference between original feature classes and the updated feature classes in the SUBG file geodatabase</b>|
 
----
 
 | ![diff](../media/diff.png) |
 | <b>Figure 1: Visual difference between original feature classes and the updated feature classes in the SUBG file geodatabase</b>|
