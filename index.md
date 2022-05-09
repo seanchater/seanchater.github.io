@@ -39,7 +39,6 @@ Some projects that have been completed in the past 7 weeks can be found by folli
 - [Data Collection](assets/pages/data_collect.md)
 - [Geodatabase Deliverable](assets/pages/geodb.md)
 - [Software Development Management](assets/pages/soft_dev.md)
-- some other project
 - maybe a cs project to show coding
 - maybe some projects from 712 or other hons modules with easy to show deliverables
 - miscellaneous (some cool adventures maybe)

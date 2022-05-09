@@ -1,4 +1,4 @@
-## Project management
+# Project management
 
 Having been part of a team that worked with the Stellenbosch University Botanical
 Gardens, I have improved my skills in managing a team as well as planning ahead
