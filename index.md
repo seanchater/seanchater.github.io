@@ -1,11 +1,11 @@
 <img style="float: left" src="assets/media/headshot.jpg" height="257" width="252">
-Sean Chater
+&nbsp;&nbsp;&nbsp;&nbsp;Sean Chater
 
-sean.chater@icloud.com
+&nbsp;&nbsp;&nbsp;&nbsp;sean.chater@icloud.com
 
-[LinkedIn](https://www.linkedin.com/in/sean-chater-789380237/?original_referer=)
+&nbsp;&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/sean-chater-789380237/?original_referer=)
 
-[YouTube](https://www.youtube.com/channel/UCQouRawVAXWux-RRiOixJeA)
+&nbsp;&nbsp;&nbsp;&nbsp;[YouTube](https://www.youtube.com/channel/UCQouRawVAXWux-RRiOixJeA)
 
 <br clear="left">
 

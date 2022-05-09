@@ -13,28 +13,25 @@ Once the learning curve has been dealt with, VCS's are actually quite intuitive 
 
 I have included the python script I used to clean the Enron Dataset (which can be downloaded [here](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset)) as I feel it is useful to have a practical example of what Pandas actually does to a dataset.
 
-<details>
-	<summary>
-		```	
-		import sys
-		import pandas as pd
-		import email
-		import re
-		import os
-		from pprint import pprint
-		#************ Input file ********************
-		email_file = "emails.csv"
-		#load file into a pandas object
-		df = pd.read_csv(email_file)
-		#******** Output files ************
-		cleaned_file = "emails_cleaned.csv"
-		employees_file = "employeeList.csv"
-		message_file = "message.csv"
-		recipientInfo_file = "recipientInfo.csv"
-		```
-	</summary>
-	```
-	#************* Dataframes ************
+```	
+import sys
+import pandas as pd
+import email
+import re
+import os
+from pprint import pprint
+
+#************ Input file ********************
+email_file = "emails.csv"
+#load file into a pandas object
+df = pd.read_csv(email_file)
+#******** Output files ************
+cleaned_file = "emails_cleaned.csv"
+employees_file = "employeeList.csv"
+message_file = "message.csv"
+recipientInfo_file = "recipientInfo.csv"
+
+#************* Dataframes ************
 employee_list_cols = ["firstname", "lastname", "email_address"]
 employee_df = pd.DataFrame(columns=employee_list_cols)
 #employee_df = pd.read_csv(message_file)
@@ -451,4 +448,3 @@ if __name__ == "__main__":
 	print("************************Starting cleaning for input file: {}************************".format(email_file))
 	read_file()
 	```
-</details>
