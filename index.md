@@ -44,5 +44,3 @@ Some projects that have been completed in the past 7 weeks can be found by folli
 - miscellaneous (some cool adventures maybe)
 
 ## Reflection (on all pages maybe? or overall reflection)
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
