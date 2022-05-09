@@ -16,7 +16,7 @@
 ## About me
 
 I am a 4th year student at Stellenbosch University, currently doing my honours in Geoinformatics. I completed a Bachelors Degree in Geoinformatics in 2021 with my majors being computer science and geographical infomation technology.
-I have a strong work ethic which was kindled when starting a business in 2018 that ran for a year, selling organic seed slabs. I enjoy helping others, be it in academia, my professional or personal life and feel this enables me to work well in a collaborative environment by being a versatile member who is willing to take on any task, or take the lead if need be.
+I have a strong work ethic which was kindled while running a business in 2018 that ran for a year, selling organic seed slabs. I enjoy helping others, be it in academia, my professional or personal life and feel this enables me to work well in a collaborative environment by being a versatile member who is willing to take on any task, or take the lead if need be.
 
 ### Experience
 
@@ -34,13 +34,12 @@ I have a strong work ethic which was kindled when starting a business in 2018 th
 ## Projects
 Some projects that have been completed in the past 7 weeks can be found by folling the links below.
 
+- [Mind Map of GIT713](assets/pages/mindmap.md)
 - [Project Management](assets/pages/project_man.md)
 - [GIS Strategy and Implementation (ERD)](assets/pages/strat.md)
 - [Data Collection](assets/pages/data_collect.md)
 - [Geodatabase Deliverable](assets/pages/geodb.md)
 - [Software Development Management](assets/pages/soft_dev.md)
-- maybe a cs project to show coding
-- maybe some projects from 712 or other hons modules with easy to show deliverables
-- miscellaneous (some cool adventures maybe)
+- [Miscellaneous](assets/pages/misc.md)
 
 ## Reflection (on all pages maybe? or overall reflection)

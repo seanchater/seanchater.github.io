@@ -1,3 +1,7 @@
+[Take me home](../../index.md#projects)
+
+---
+
 # GIS Strategy and Implementation (ERD)
 
 For the project mentioned in [Data Collection](../pages/data_collect.md) we redesigned the file geodatabase of the SUBG. To begin with we started with a conceptual model of how we thought the geodatabase would best function, this is shown in Figure 1. We then met with the client to discuss if this updated model could work for them, what could be changed and what could be added or removed.

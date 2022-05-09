@@ -1,3 +1,7 @@
+[Take me home](../../index.md#projects)
+
+---
+
 # Project management
 
 Having been part of a team that worked with the Stellenbosch University Botanical
@@ -10,7 +14,7 @@ those processes and a rough timeline of when they were expected to be finished. 
 continuously updated throughout the project so we were sure to keep delivering on a consistent schedule, one of our iterations can be seen in Figure 1 to give an understanding of how it looks while a project is in progress.
 
 | ![gantt](../media/gantt.png) |
-| <b>Figure 1: An upated versino of our Gantt chart for the SUBG project</b>|
+| <b>Figure 1: An upated version of our Gantt chart for the SUBG project</b>|
 
 In hindsight, although it still served its purpose, a Gantt chart (in Excel format) may not have been the best option for our use case. Having the chart in Excel meant that the chart had to be maintained manually by someone every time a task was completed and there was no concurrent viewing of the chart unless a screenshot was shared on another platform or it was uploaded to a Onedrive account. There are many websites and applications nowadays that allow for easy and accessible projet management, such as ClickUp, Trello & Jira being a small group of these applications that I have personally used. I found that Trello had the simplest learning curve while still having enough functionality to be used for small to medium sized projects.
 

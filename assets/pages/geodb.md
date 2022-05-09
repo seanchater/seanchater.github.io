@@ -1,3 +1,7 @@
+[Take me home](../../index.md#projects)
+
+---
+
 # Geodatabase Deliverable
 
 During the same project as mentioned in [Data Collection](../pages/data_collect.md), our team made updates to the SUBG file geodatabase, as there were some issues with layers not overlaying correctly and the main reason being to integrate the new beds we had mapped with a DGPS.
@@ -10,9 +14,11 @@ A visual comparison of the feature classes in the database can be seen in Figure
 ## Original Geodatabase
 
 The origingal database that we were given consisted of a single polygon layer and a point layer, in addition there were two separate polygon files for the buildings. This can be seen in Figure 2 and Figure 3.
-| ![hons2021](../media/hons2021.png)| ![extra](../media/extra.png) |
-| <b>Figure 2: The original geodatabase structure</b> | <b>Figure 3: Additional files |
 
+| ![hons2021](../media/hons2021.png) | 
+| <b>Figure 2: The original geodatabase structure</b> |
+| ![extra](../media/extra.png) |
+| <b>Figure 3: Additional files |
 ## New Geodatabase
 
 In our new geodatabase we had a few standalone tables that arose from the normalisation process and a feature dataset which ensured that all of our feature classes within comformed to the Transverse Mercator projection. The structure of the new geodatabase can be seen in Figure 4.
