@@ -11,4 +11,4 @@ continuously updated throughout the project so we were sure to keep delivering o
 
 ![gantt](../media/gantt.png)
 
-In hindsight, although it still served its purpose, a Gantt chart (in Excel format) may not have been the best option for our use case. There are many websites and applications nowadays that allow
+In hindsight, although it still served its purpose, a Gantt chart (in Excel format) may not have been the best option for our use case. Having the chart in Excel meant that the chart had to be maintained manually by someone every time a task was completed and there was no concurrent viewing of the chart unless a screenshot was shared on another platform or it was uploaded to a Onedrive account. There are many websites and applications nowadays that allow for easy and accessible projet management, such as ClickUp, Trello & Jira being a small group of these applications that I have personally used. I found that Trello had the simplest learning curve while still having enough functionality to be used for small to medium sized projects.
