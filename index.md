@@ -45,7 +45,7 @@ Some projects that have been completed in the past 7 weeks can be found by folli
 
 Figure 1 shows my internal idea of what the GIT 713 module consists of and how everything links together. It has been a very insightful journey and has definitely brought together and solidified many of the concepts I have been attempting to internalise over the past 2 years of GIT modules.
 
-| ![mindmap](../media/mindmap.png) |
+| ![mindmap](assets/media/mindmap.png) |
 | <b>Figure 1: GIT 713 Mind Map</b> |
 
 Having implemented most of the steps in this mind map during the course of the module, I have a better idea of where the more 'conceptual' parts (in my mind) fit in, such as a legislative framework and how this can influence ethical decisions throughout a workflow. 
