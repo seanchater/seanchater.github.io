@@ -9,4 +9,4 @@ of the project which outlined the flow of processes we were expecting to follow,
 those processes and a rough timeline of when they were expected to be finished. This Gantt chart was
 continuously updated throughout the project so we were sure to keep delivering on a consistent schedule, one of our iterations can be seen below to give an understanding of how it looks while a project is in progress.
 
-![gantt](../assets/media/gantt.png)
+![gantt](../media/gantt.png)

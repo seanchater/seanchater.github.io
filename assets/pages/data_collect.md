@@ -2,6 +2,8 @@
 
 # Data Collection
 
+![dc1](../media/dc1.jpeg)
+![dc2](../media/dc2.jpeg)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
