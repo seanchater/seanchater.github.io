@@ -16,7 +16,7 @@ sean.chater@icloud.com
 ## About me
 
 I am a 4th year student at Stellenbosch University, currently doing my honours in Geoinformatics. I completed a Bachelors Degree in Geoinformatics in 2021 with my majors being computer science and geographical infomation technology.
-I have a strong work ethic which was kindled when starting a business in 2018 that ran for a year, selling organic seed slabs. I enjoy helping others, be it in academia, my professional or personal life and feel this enables me to work well in teams by being a versatile member who is willing to take on any task, or take the lead if need be.
+I have a strong work ethic which was kindled when starting a business in 2018 that ran for a year, selling organic seed slabs. I enjoy helping others, be it in academia, my professional or personal life and feel this enables me to work well in a collaborative environment by being a versatile member who is willing to take on any task, or take the lead if need be.
 
 ### Experience
 
