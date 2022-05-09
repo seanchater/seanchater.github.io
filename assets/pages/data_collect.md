@@ -2,8 +2,10 @@
 
 # Data Collection
 
-During a project working with the Stellenbosch University Botanical Gardens (SUBG) myself and two others, [Zandre Nieuwoudt](https://github.com/ZJnieuwoudt) & [Mila Toth](https://github.com/milesTeller), collected DGPS readings to generate high precision vector files of some new beds that had been built in the gardens. This was done using a Trimble GeoXH 6000 Differential GPS which can be seen below.
-![trimble](../media/trimble.png). 
+During a project working with the Stellenbosch University Botanical Gardens (SUBG) myself and two others, [Zandre Nieuwoudt](https://github.com/ZJnieuwoudt) & [Mila Toth](https://github.com/milesTeller), collected DGPS readings to generate high precision vector files of some new beds that had been built in the gardens. This was done using a Trimble GeoXH 6000 Differential GPS which can be seen in Figure 1.
+
+| ![trimble](../media/trimble.png) |
+| <b>Figure 1: The DGPS unit used for our data collection</b>
 	
 
 
