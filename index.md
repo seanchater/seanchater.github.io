@@ -21,7 +21,7 @@ I have a strong work ethic which was kindled when starting a business in 2018 th
 ### Experience
 
 - Stellenbosch University
-  - Rock Climbing Club Executive Committee member
+  - Rock Climbing Club Executive Committee member: 2020 - present
   - Demonstrator for Earth Observation module in 2021 and 2022
 - Pyranha Stunts: Stunt performer
 - Marine Surf Lifesaving Club: Voluntary & Competitve Lifeguard for 5 years
@@ -34,7 +34,7 @@ I have a strong work ethic which was kindled when starting a business in 2018 th
 ## Projects
 Some projects that have been completed in the past 7 weeks can be found by folling the links below.
 
-- [Project management](assets/pages/project_man.md)
+- [Project Management](assets/pages/project_man.md)
 - [GIS Strategy and Implementation (ERD)](assets/pages/strat.md)
 - [Data Collection](assets/pages/data_collect.md)
 - [Geodatabase Deliverable](assets/pages/geodb.md)
